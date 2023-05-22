@@ -1,0 +1,23 @@
+.container-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    
+    
+}
+.container-nav a {
+    
+    color: white;
+    text-decoration: none;
+    padding: 2rem;
+    height: 20px;
+}
+nav {
+    text-align: center;
+    align-items: center;
+    height:4rem;
+}
+.active a{
+    color: black;
+}

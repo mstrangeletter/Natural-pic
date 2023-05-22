@@ -1,0 +1,29 @@
+.heart {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color:blue;
+    padding: 1rem;
+  
+
+}
+.grilla {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    height: 150vh;
+}
+
+.imagen {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    font-style: italic;
+    margin-top: 2rem;
+    color: green;
+}
